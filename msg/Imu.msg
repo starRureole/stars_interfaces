@@ -1,0 +1,3 @@
+geometry_msgs/Vector3 lin_acceleration
+geometry_msgs/Vector3 ang_velocity
+geometry_msgs/Vector3 mag_field

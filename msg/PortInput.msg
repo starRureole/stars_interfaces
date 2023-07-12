@@ -1,0 +1,16 @@
+uint8 input1
+uint8 input2
+uint8 input3
+uint8 input4
+uint8 input5
+uint8 input6
+uint8 input7
+uint8 input8
+uint8 input9
+uint8 input10
+uint8 input11
+uint8 input12
+uint8 input13
+uint8 input14
+uint8 input15
+uint8 input16
